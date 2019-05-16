@@ -1,5 +1,5 @@
 #!/bin/bash
-while IFS="," read username f2
+while IFS="," read username f2   //reads column 2 (names)
 do
 echo $username
 sudo useradd -m $username
