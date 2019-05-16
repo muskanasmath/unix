@@ -1,0 +1,3 @@
+
+the shell script is is used to create users automatically in a Ubuntu server connected to a network of computers.
+These users once created can access the server’s resources from any other computer on the network using telnet. 
